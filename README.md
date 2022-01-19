@@ -6,3 +6,6 @@ These repository includes some numerical methods that are devleoped by using MAT
 3) Bisection Method and Newton's Method Combined
 4) Tridiagonal LU Decomposition and an Application
 5) QR Factorization and Least Squares Problem
+6) Generalized Eigenvalue Problem
+7) Markov Chain and Power Iteration
+8) Jacobi Method (Eigenvalue-Eigenvector Calculator)
